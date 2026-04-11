@@ -2,11 +2,11 @@
 
 import pandas
 
-dataset = pandas.read_csv("./dataset/Power Plant Data.csv")
+dataset = pandas.read_csv("./datasets/Power Plant Data.csv")
 dataset
 
-x = dataset[["AT, V, AP, R"]]
-y = dataset[["PE"]]
+x = dataset[["AT", "V", "AP", "RH"]]
+y = dataset["PE"]
 
 corr = x.corrwith(y)
-corr
+print(corr)
