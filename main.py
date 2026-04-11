@@ -10,3 +10,9 @@ y = dataset["PE"]
 
 corr = x.corrwith(y)
 print(corr)
+
+print()
+
+# ATIVIDADE 2
+
+print(x.corr())
