@@ -3,7 +3,6 @@
 import pandas
 
 dataset = pandas.read_csv("./datasets/Power Plant Data.csv")
-dataset
 
 x = dataset[["AT", "V", "AP", "RH"]]
 y = dataset["PE"]
@@ -11,12 +10,9 @@ y = dataset["PE"]
 corr = x.corrwith(y)
 print(corr)
 
-print()
-
 # ATIVIDADE 2
 
 print(x.corr())
-print()
 
 # ATIVIDADE 3
 
@@ -57,7 +53,6 @@ print(theta)
 
 theta_0 = model.intercept_
 print(theta_0)
-print()
 
 # ATIVIDADE 4
 
