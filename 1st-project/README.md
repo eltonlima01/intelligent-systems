@@ -31,4 +31,4 @@ Para realizar o treinamento do nosso modelo, utilizamos o dataset UCI CCPP (disp
 - RH (*Relative Humidity*): Umidade relativa em percentagem.
 - PE (*Net Hourly Electrical Energy Output*): A variável alvo em MW (MegaWatts).
 
-## [ATIVIDADES](/main.ipynb)
+## [ATIVIDADES](/1st-project/main.ipynb)
