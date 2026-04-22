@@ -40,4 +40,4 @@ ativa (7);
 A saı́da é a variável target, que indica o diagnóstico original de 0 a 4, binarizado para 0 (sem doença) e 1
 (com doença) antes do treinamento.
 
-## [ATIVIDADES](/main.ipynb)
+## [ATIVIDADES](/2nd-project/main.ipynb)
