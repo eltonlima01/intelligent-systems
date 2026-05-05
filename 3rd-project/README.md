@@ -24,4 +24,4 @@ Neste projeto, você é convidado a construir um modelo de classificação de vi
 
 O projeto utiliza o arquivo winequality-red.csv do *dataset* Wine Quality (https://archive.ics.uci.edu/ml/datasets/Wine+Quality). O *dataset* foi criado por Paulo Cortez et al. (Universidade do Minho, Portugal) e publicado em 2009. Ele reúne 1.599 amostras de vinho tinto da região do Vinho Verde, no noroeste de Portugal. Cada amostra foi submetida a testes laboratoriais que geraram 11 atributos físico-químicos — como acidez fixa, acidez volátil, teor de ácido cítrico, açúcar residual, cloretos, dióxido de enxofre, densidade, pH, sulfatos e teor alcoólico. O rótulo de qualidade (quality)  ́e um valor inteiro de 0 a 10 atribuído por *sommeliers* em avaliações cegas, representando a mediana de pelo menos três avaliações humanas.
 
-## [ATIVIDADES](/3nd-project/main.ipynb)
+## [ATIVIDADES](/3rd-project/main.ipynb)
