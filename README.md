@@ -13,7 +13,11 @@
 
 </div>
 
+<hr>
+
 Repositório dedicado para o desenvolvimento e documentação dos projetos da disciplina PAM0466 - Sistemas Inteligentes (2026.1).
+
+<hr>
 
 - [1º PROJETO](/1st-project/)
 - [2º PROJETO](/2nd-project/)
